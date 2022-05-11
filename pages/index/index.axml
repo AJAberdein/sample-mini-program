@@ -1,0 +1,10 @@
+
+<view  class="page">
+  <text class="heading1">Diagnostics Tool</text>
+  <button size="default" type="primary" onTap="GetAuthCodeOnDevice">Auth on Device</button>
+  <button size="default" type="primary" onTap="GetAuthCodeOnSimulator">Auth on Simulator</button>
+  <button size="default" type="primary" onTap="GetAuthCodeOnBoth">Programatically Authenticate</button>
+  <button size="default" type="primary" onTap="getUserInfo">User Info</button>
+  <button size="default" type="primary" onTap="pay">Payment</button>
+  <button size="default" type="primary" onTap="pay">Open Webview</button>
+</view>

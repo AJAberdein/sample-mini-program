@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "Diagnostics App",
+    "titleBarColor": "#08081b",
+    "backgroundColor": "#08081b"
+  }
+}
